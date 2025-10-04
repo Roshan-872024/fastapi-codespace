@@ -1,0 +1,10 @@
+{
+  "name": "ga2-7623f6",
+  "image": "ghcr.io/devcontainers/features/python:1",
+  "features": {},
+  "postCreateCommand": "pip install fastapi",
+  "extensions": [
+    "astral-sh.uv",
+    "ms-python.python"
+  ]
+}
